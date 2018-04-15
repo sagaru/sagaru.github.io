@@ -4,3 +4,5 @@ url: "http://sagaru.github.io"
 twitter_username: sagaru20
 github_username: sagaru
 https://sagaru.github.io/
+
+theme: jekyll-theme-minimal
